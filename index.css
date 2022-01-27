@@ -66,7 +66,8 @@ mark{
 @media (max-width:1024px) {
     .container{
         flex-direction: column-reverse;
-        
+        width: 81%;
+
     }
     .learn{
         margin: 0;
